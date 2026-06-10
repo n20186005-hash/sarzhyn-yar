@@ -41,22 +41,22 @@
     }
   },
   "knowledge": {
-    "title": "Discover the Charm of Diukivskyi Sad",
+    "title": "Discover the Charm of Sarzhyn Yar",
     "sections": [
       {
         "id": "history",
         "title": "Historical Significance",
-        "content": "Diukivskyi Sad is an important park in Odesa, providing recreational space for local residents and tourists. The park has witnessed the development and changes of Odesa city."
+        "content": "Sarzhyn Yar is a historic natural ravine in Kharkiv, famous for its pure natural mineral water spring, representing a perfect combination of urban development and nature preservation."
       },
       {
         "id": "nature",
         "title": "Natural Landscape",
-        "content": "The park is planted with various plants, with shaded trees forming a green canopy, making it a rare natural oasis in the city. Visitors can enjoy peaceful moments here and feel the breath of nature."
+        "content": "The park is shaded by trees and features a clear stream with modern wooden walkways, making it a rare natural oasis in the city. Visitors can enjoy peaceful moments here."
       },
       {
         "id": "experience",
         "title": "Recreation Experience",
-        "content": "Diukivskyi Sad is the best place to experience Odesa's urban natural atmosphere. You can sit on a bench in the park to rest, stroll along the tree-lined paths, or simply enjoy a moment of tranquility."
+        "content": "Sarzhyn Yar is the best place to experience Kharkiv's urban natural atmosphere. You can taste the famous mineral water, stroll along the tree-lined paths, or relax on the lawn."
       }
     ]
   },
@@ -91,48 +91,48 @@
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Diukivskyi Sad",
+    "outdoor": "Sarzhyn Yar",
     "outdoorPrice": "Free all day",
     "lighthouse": "Nearby Attractions",
-    "adults": "Other Attractions in Odesa",
+    "adults": "Other Attractions in Kharkiv",
     "adultsPrice": "Fees apply according to each attraction's rules",
     "students": "Parking Fees",
     "studentsPrice": "Paid parking available near the park",
     "children": "Transport Tip",
-    "childrenPrice": "Located in Odesa city, accessible by public transport or driving",
+    "childrenPrice": "Located in Kharkiv city, accessible by metro, public transport or driving",
     "card": "Travel Pass",
     "cardPrice": "Recommended to get a local transport card for convenient public transport"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: Odesa International Airport (ODS) (approx. 10 km, 20 minutes drive). From the airport, you can take a taxi or public transport to the city center.",
+    "airportDesc": "Nearest airport: Kharkiv International Airport (HRK). From the airport, you can take a taxi or public transport to the city center.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "Odesa has convenient transportation within the city. It is recommended to park in paid parking lots around the park.",
+    "selfDriveDesc": "Kharkiv has convenient transportation within the city. It is recommended to park in designated parking lots around the park.",
     "bus": "Public Transport",
-    "busDesc": "You can take Odesa's buses or trams to near the park. Please check local public transport apps for specific routes.",
+    "busDesc": "Take the Kharkiv Metro to Botanichnyi Sad station, and the park is just a short walk away. Various buses are also available.",
     "intercity": "Short-Distance Travel",
-    "intercityDesc": "The park is located within Odesa city, very convenient to access from the city center by walking, public transport, or taxi.",
+    "intercityDesc": "The park is located within Kharkiv city, very convenient to access from the city center by metro or taxi.",
     "cycling": "Cycling",
-    "cyclingDesc": "Odesa has a certain number of bicycle lanes, and cycling is also a good choice for exploring the city.",
+    "cyclingDesc": "Kharkiv has areas suitable for cycling, which is also a good choice for exploring the city.",
     "tips": "Travel Tips",
-    "tipsDesc": "Odesa is an important port city in Ukraine, with rich historical culture and beautiful natural landscapes, making it an ideal starting point for exploring southern Ukraine."
+    "tipsDesc": "Kharkiv is the second-largest city in Ukraine, with rich historical culture, magnificent squares, and beautiful natural landscapes."
   },
   "route": {
     "title": "Visiting Route",
-    "overview": "Odesa City Walking Route",
+    "overview": "Kharkiv City and Sarzhyn Yar Walking Route",
     "steps": [
-      "Arrive at Diukivskyi Sad and enjoy the tranquility and nature of the park",
-      "Stroll along the tree-lined paths within the park and feel the freshness of the green oxygen bar",
-      "Head to central Odesa and visit famous attractions such as Odesa Opera and Ballet Theater",
-      "Walk along Odesa's seaside boulevard (Primorsky Boulevard) and enjoy the Black Sea scenery",
-      "Visit Odesa's famous Catacombs Museum",
-      "Taste traditional Ukrainian cuisine at restaurants in the city center"
+      "Arrive at Sarzhyn Yar, taste the famous natural mineral water and enjoy the tranquility",
+      "Stroll along the modern wooden walkways in the park and feel the freshness of nature",
+      "Take the nearby Kharkiv Cable Car to overlook the city's green landscape",
+      "Head to central Kharkiv and visit Freedom Square, one of the largest squares in Europe",
+      "Admire the magnificent landmark building Derzhprom (State Industry Building)",
+      "Taste traditional Ukrainian cuisine or local coffee at restaurants in the city center"
     ],
     "supplements": [
       "The park is a public space, free and open all day, no reservations needed",
-      "Parking in Odesa city is limited, it is recommended to park in designated public parking lots",
-      "It is recommended to explore central Odesa on foot or by public transport"
+      "Parking in some areas of Kharkiv is limited, it is recommended to use public transport",
+      "The metro is highly recommended for exploring Kharkiv, as it is fast and unique"
     ],
     "supplementsTitle": "Visiting Notes"
   },
@@ -156,12 +156,12 @@
         "desc": "Capture the rich greenery and flowers in the park, showcasing natural beauty"
       },
       {
-        "name": "Abandoned Buildings & Ponds",
-        "desc": "Capture the grand abandoned buildings with a sense of historical vicissitudes and the tranquil ponds, perfect for ruin-style or retro portrait photography"
+        "name": "Mineral Water Pavilion and Modern Walkways",
+        "desc": "Capture the modern design of the mineral water pavilion and the wooden walkways winding through the greenery"
       }
-    ], 
+    ],
     "tips": "Photography Tips",
-    "tipsContent": "Spring and autumn are the most beautiful seasons for Diukivskyi Sad, with lush greenery, making them the best timing for photography."
+    "tipsContent": "Spring and autumn are the most beautiful seasons for Sarzhyn Yar, with lush greenery, making them the best timing for photography."
   },
   "gallery": {
     "title": "Stunning Photos",
@@ -244,13 +244,13 @@
         "name": "Mariia Hrytsenko",
         "date": "2 months ago",
         "rating": 5,
-        "text": "A hidden gem park in Odesa! Although not as famous as the large parks in the city center, it's more peaceful and natural. Very suitable for those wanting to escape the city noise."
+        "text": "A hidden gem park in Kharkiv! Although not as famous as the large parks in the city center, it's more peaceful and natural. Very suitable for those wanting to escape the city noise."
       }
     ]
   },
   "mapSection": {
     "title": "Transportation Guide",
-    "subtitle": "Rozkydailivs'ka St, 56, Odesa, Odesa Oblast, Ukraine 65000",
+    "subtitle": "Kharkiv, Kharkiv Oblast, Ukraine, 61000",
     "openMaps": "View on Google Maps"
   },
   "footer": {
@@ -374,7 +374,7 @@
     "rejectAll": "Reject All"
   },
   "officialManagement": {
-    "title": "About Diukivskyi Sad",
-    "text": "Diukivskyi Sad is an important park in Odesa, managed and maintained by the Odesa City Government."
+    "title": "About Sarzhyn Yar",
+    "text": "Sarzhyn Yar is an important natural park in Kharkiv, managed and maintained by the relevant departments of the Kharkiv City Government."
   }
 }
